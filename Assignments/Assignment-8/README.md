@@ -1,1 +1,1 @@
-This assignment is intended to implement the basic drone assembly and fly it. Here, we use raspi for running Mission Planner for the calibration of the drone.
+This assignment is intended to implement the basic drone assembly and fly it. Here, we use raspi for running Mission Planner for the calibration of the drone. We follow the instruction manual as shown. The end result can be seen in the attached video.
