@@ -1,0 +1,1 @@
+This assignment covers the image processing aspect for tracing the path traced by the bot. For this, we utilize open-cv to track the bot via using a colored paper (in my case green) to trace the path moved by bot.
